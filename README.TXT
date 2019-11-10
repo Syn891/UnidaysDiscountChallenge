@@ -1,12 +1,13 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the project README file. It is part of the challenge for the Unidays
+internship application. A simple project to calculate cost of items in basket and apply
+any applicable discounts/ delivery costs
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Unidays Discount Challenge
+PURPOSE OF PROJECT:application
+VERSION or DATE:10/11/2019
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS:Sareena Naser
+USER INSTRUCTIONS:Create Map of price listings where the key is the item name (A, B, C, D, E)
+and the value is the price
