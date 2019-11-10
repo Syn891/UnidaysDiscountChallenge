@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=pricingRules
+comment0.target=UnidaysDiscountChallenge(java.util.Map)
+comment1.params=item
+comment1.target=void\ addToBasket(java.lang.String)
+comment2.params=
+comment2.target=int\ calculateB()
+comment3.params=
+comment3.target=int\ calculateC()
+comment4.params=
+comment4.target=int\ calculateD()
+comment5.params=
+comment5.target=int\ calculateE()
+comment6.params=
+comment6.target=java.lang.String\ calculateTotalPrice()
+numComments=7
